@@ -1,0 +1,20 @@
+docker pull
+docker build
+docker run
+docker ps
+docker ps -a
+docker stop
+docker start
+docker restart
+docker exec -it
+docker logs
+docker images
+docker rm
+docker rmi
+docker cp
+docker inspect
+docker network ls
+docker volume ls
+docker system prune
+docker compose up
+docker compose down
